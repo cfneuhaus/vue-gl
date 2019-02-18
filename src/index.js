@@ -3,6 +3,7 @@ import VglObject3d from './core/vgl-object3d';
 import VglScene from './scenes/vgl-scene';
 import VglCamera from './cameras/vgl-camera';
 import VglRenderer from './renderers/vgl-renderer';
+import VglCSS2DRenderer from './renderers/vgl-css2drenderer';
 import VglPerspectiveCamera from './cameras/vgl-perspective-camera';
 import VglGroup from './objects/vgl-group';
 import VglLight from './lights/vgl-light';
@@ -67,6 +68,7 @@ export {
   VglScene,
   VglCamera,
   VglRenderer,
+  VglCSS2DRenderer,
   VglPerspectiveCamera,
   VglGroup,
   VglLight,
