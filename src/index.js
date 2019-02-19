@@ -67,7 +67,6 @@ export {
   VglScene,
   VglCamera,
   VglRenderer,
-  VglCSS2DRenderer,
   VglPerspectiveCamera,
   VglGroup,
   VglLight,
